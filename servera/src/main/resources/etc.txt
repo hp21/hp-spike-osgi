@@ -1,0 +1,1 @@
+file:///k:\idea-projects\maven-osgi\servera\target\serveraif-1.0-SNAPSHOT.jar
